@@ -11,7 +11,7 @@ BuildRequires:	cmake
 BuildRequires:	desktop-file-utils
 BuildRequires:	gettext
 BuildRequires:	qt4-devel
-BuildRequires:	libsysactivity-devel
+BuildRequires:	%{_lib}sysactivity-devel
 BuildRequires:	kdelibs4-devel
 BuildRequires:	kdebase4-workspace-devel
 
