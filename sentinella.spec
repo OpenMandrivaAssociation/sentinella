@@ -50,3 +50,10 @@ desktop-file-install --vendor="" \
 %{_datadir}/sounds/Sentinella
 %{_iconsdir}/hicolor/*/apps/%{name}.*
 
+
+
+%changelog
+* Tue May 29 2012 Matthew Dawkins <mattydaw@mandriva.org> 0.9.0-1
++ Revision: 801027
+- imported package sentinella
+
