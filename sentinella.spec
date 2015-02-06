@@ -1,7 +1,7 @@
 Summary:	System monitor
 Name:		sentinella
 Version:	0.9.0
-Release:	1
+Release:	2
 License:	GPLv2+
 Group:		Graphical desktop/KDE
 URL:		http://sentinella.sourceforge.net/
