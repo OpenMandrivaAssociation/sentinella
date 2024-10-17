@@ -4,7 +4,7 @@ Version:	0.9.0
 Release:	2
 License:	GPLv2+
 Group:		Graphical desktop/KDE
-URL:		http://sentinella.sourceforge.net/
+URL:		https://sentinella.sourceforge.net/
 Source0:	http://downloads.sourceforge.net/project/%{name}/0.9.x/%{name}-%version.tar.xz
 
 BuildRequires:	cmake
